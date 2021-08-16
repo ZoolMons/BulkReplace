@@ -1,7 +1,9 @@
-﻿using System.Collections.Generic;
+﻿using BulkReplace.Helper;
+using System.Collections.Generic;
 using System.IO;
 using System.Linq;
 using System.Text;
+using System.Text.RegularExpressions;
 using System.Windows.Forms;
 
 namespace BulkReplace
@@ -45,6 +47,8 @@ namespace BulkReplace
             foreach (var item in _items)
             {
                 contents = contents.Replace(item.Replace, item.With);
+                //contents = Regex.Replace(item.Replace, "", item.With);
+                LogInfoHelper.Info("Replace", $"FilePath:{filename};OriginalTest:{item.Replace};NewText:{item.With}");
             }
 
             using (var writer = new StreamWriter(filename, false, encoding))

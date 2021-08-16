@@ -1,0 +1,13 @@
+D:\Sobey\Repos\BulkReplace\bin\Release\BulkReplace.exe.config
+D:\Sobey\Repos\BulkReplace\bin\Release\BulkReplace.exe
+D:\Sobey\Repos\BulkReplace\bin\Release\BulkReplace.pdb
+D:\Sobey\Repos\BulkReplace\bin\Release\NLog.dll
+D:\Sobey\Repos\BulkReplace\bin\Release\NLog.xml
+D:\Sobey\Repos\BulkReplace\obj\Release\BulkReplace.MainWindow.resources
+D:\Sobey\Repos\BulkReplace\obj\Release\BulkReplace.Properties.Resources.resources
+D:\Sobey\Repos\BulkReplace\obj\Release\BulkReplace.csproj.GenerateResource.cache
+D:\Sobey\Repos\BulkReplace\obj\Release\BulkReplace.csproj.CoreCompileInputs.cache
+D:\Sobey\Repos\BulkReplace\obj\Release\BulkReplace.csproj.CopyComplete
+D:\Sobey\Repos\BulkReplace\obj\Release\BulkReplace.exe
+D:\Sobey\Repos\BulkReplace\obj\Release\BulkReplace.pdb
+D:\Sobey\Repos\BulkReplace\obj\Release\BulkReplace.csprojAssemblyReference.cache
